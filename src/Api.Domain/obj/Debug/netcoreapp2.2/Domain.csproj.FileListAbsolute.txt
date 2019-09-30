@@ -1,0 +1,16 @@
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.runtimeconfig.dev.json
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Api\src\Api.Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.RazorAssemblyInfo.cache
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.RazorAssemblyInfo.cs
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.RazorTargetAssemblyInfo.cache
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\Api\src\Api.Domain\obj\Debug\netcoreapp2.2\Domain.csprojAssemblyReference.cache
