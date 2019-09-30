@@ -9,9 +9,9 @@ namespace Domain.Interfaces.Services
     public interface ITaxaJurosService
     {
         /// <summary>
-        /// Retorna a taxa atual de atualização mensal de valores
+        /// Busca taxa de atualização mensal de valores
         /// </summary>
-        /// <returns></returns>
+        /// <returns>Indice para atualização de valores</returns>
         Task<double> Get();
 
     }
